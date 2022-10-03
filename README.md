@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**archana-nallam/archana-nallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me 🚀
+🙋🏻‍♀️ Hi, I am Archana from California, USA! 👋
 
-Here are some ideas to get you started:
+I am a Business analyst who turned into a data analyst, with special interest in 
+the field of data visualization and data science.
+## 🛠 Skills
+* SQL
+* Power BI
+* Tableau
+* Python
+* Advanced Excel
+* Machine Learning 
+* Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://archana-nallam.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-nallam-25568282/)
+
+
+## Projects
+
+* Click [here](https://github.com/archana-nallam/Machine_Learning_Smart_Health_Project) to view my projects on Machine learning and deep learning
+* Click [here](https://github.com/archana-nallam/Power-BI-Dashboards) to view my Power BI dashboards along with the datasets
+* Click [here](https://github.com/archana-nallam/My-SQL-projects) to view my SQL projects
+
+## Currently
+👩‍💻 Working on AI project as Lead ML Engineer
+
+🧠 Participating in various data visualization challenges
+
+👯‍♀️ Willing to learn more about data analysis and work on various kinds of database and data types
+
