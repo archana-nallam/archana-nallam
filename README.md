@@ -31,8 +31,8 @@ the field of data visualization and data science.
 
 🧠 Participating in various data visualization challenges
 
-👯‍♀️ Willing to learn more about data analysis and work on various kinds of database and data types
+👯‍♀️ Willing to explore and learn more about data analysis and work on various types of data
 
-👩‍ Seeking to leverage my diverse skills to improve corporate performance as a data analyst![image](https://user-images.githubusercontent.com/75180978/193903268-2c9cddc9-610e-4154-860c-cea7483bf5dd.png)
+👩‍ Seeking to leverage my diverse skills to improve corporate performance as a data analyst
 
 
